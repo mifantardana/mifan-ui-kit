@@ -1,0 +1,19 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "http://localhost:9000/assets/runtime.js",
+        "http://localhost:9000/assets/app.js"
+      ]
+    },
+    "style": {
+      "js": [
+        "http://localhost:9000/assets/runtime.js",
+        "http://localhost:9000/assets/style.js"
+      ],
+      "css": [
+        "http://localhost:9000/assets/style.css"
+      ]
+    }
+  }
+}
