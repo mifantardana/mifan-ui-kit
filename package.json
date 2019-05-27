@@ -10,7 +10,9 @@
     "@symfony/webpack-encore": "^0.27.0",
     "autoprefixer": "^9.5.1",
     "node-sass": "^4.11.0",
+    "npm-cli-login": "^0.1.1",
     "postcss-loader": "^3.0.0",
+    "publish": "^0.6.0",
     "sass-loader": "^7.0.1"
   },
   "scripts": {
