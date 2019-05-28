@@ -2,17 +2,17 @@
   "entrypoints": {
     "app": {
       "js": [
-        "http://localhost:9000/assets/runtime.js",
-        "http://localhost:9000/assets/app.js"
+        "/assets/runtime.js",
+        "/assets/app.js"
       ]
     },
     "style": {
       "js": [
-        "http://localhost:9000/assets/runtime.js",
-        "http://localhost:9000/assets/style.js"
+        "/assets/runtime.js",
+        "/assets/style.js"
       ],
       "css": [
-        "http://localhost:9000/assets/style.css"
+        "/assets/style.css"
       ]
     }
   }
