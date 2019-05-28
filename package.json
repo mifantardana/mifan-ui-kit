@@ -1,10 +1,13 @@
 {
-  "name": "base-framework",
-  "version": "1.0.3",
+  "name": "mifan-ui-kit",
+  "version": "1.0.0",
   "description": "Mifan Framework",
   "main": "index.js",
-  "repository": "https://github.com/mifantwan/mifan-framework.git",
-  "author": "Mifan Twan Ardana <me@mifan.io>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mifantardana/mifan-ui.git"
+  },
+  "author": "Mifan Twan Ardana <mifan@getdialog.nl>",
   "license": "MIT",
   "devDependencies": {
     "@symfony/webpack-encore": "^0.27.0",
@@ -18,5 +21,21 @@
   "scripts": {
     "start": "yarn encore dev-server --http --port 9000",
     "dist": "yarn run encore production"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mifantwan/mifan-framework/issues"
+  },
+  "homepage": "https://mifan.io/library/ui-framework",
+  "keywords": [
+    "frontend",
+    "html",
+    "sass",
+    "framework",
+    "portfolio",
+    "css",
+    "ui",
+    "ux",
+    "responsive",
+    "adaptive"
+  ]
 }
