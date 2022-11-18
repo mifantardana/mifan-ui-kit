@@ -10,7 +10,7 @@
   "author": "Mifan Twan Ardana <mifan@getdialog.nl>",
   "license": "MIT",
   "devDependencies": {
-    "@symfony/webpack-encore": "^0.27.0",
+    "@symfony/webpack-encore": "^4.1.1",
     "autoprefixer": "^9.5.1",
     "node-sass": "^4.11.0",
     "npm-cli-login": "^0.1.1",
